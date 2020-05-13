@@ -3,7 +3,9 @@ var __PROXY__='PROXY 127.0.0.1:1080;'
 var __USERRULES__ = [
 ".faz.net",
 ".welt.de",
-".inoreader.com"
+".inoreader.com",
+
+".bild.de",
 ];
 
 var __RULES__ = [
