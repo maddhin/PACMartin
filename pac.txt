@@ -11,6 +11,8 @@ var __USERRULES__ = [
 "||bild.de",
 ".heise",
 "||heise",
+".kvbb.de",
+"||kvbb.de",
 ];
 
 var __RULES__ = [
