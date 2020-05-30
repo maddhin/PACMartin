@@ -13,6 +13,8 @@ var __USERRULES__ = [
 "||heise",
 ".kvbb.de",
 "||kvbb.de",
+".trakt.tv",
+"||trakt.tv",
 ];
 
 var __RULES__ = [
